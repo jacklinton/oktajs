@@ -10,7 +10,7 @@
     "security"
   ],
   "dependencies": {
-      "request": "2.75.x"
+      "request": "^2.87.x"
   },
   "devDependencies": {
     "chai": "3.5.x",
